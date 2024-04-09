@@ -1,7 +1,7 @@
 site_name: UD 7. Configuración de los Sistemas informáticos
 
-# docs_dir: 
-# site_dir:
+docs_dir: 'md' 
+site_dir: 'docs'
 theme: material
 plugins:
 #  - pdf-export  # plugin per exportar a pdf
