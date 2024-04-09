@@ -1,0 +1,22 @@
+site_name: UD 7. Configuración de los Sistemas informáticos
+
+# docs_dir: 
+# site_dir:
+theme: material
+plugins:
+#  - pdf-export  # plugin per exportar a pdf
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+features:
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+nav:
+    - UD 7: index.md
+    - Objetivos: objetivos.md
+    - Introducción: introduccion.md
+    - 1. Reducción del número de servicios: reduccion.md
+    
